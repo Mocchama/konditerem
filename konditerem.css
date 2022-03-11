@@ -1,0 +1,46 @@
+h1{
+    color: white;
+    
+}
+.fejlec {
+    background-color: rgb(39, 60, 86);
+    padding: 5px;
+    text-align: center;
+}
+.navbar {
+    overflow: hidden;
+    background-color: rgb(103, 141, 106);
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: rgb(170, 193, 172);
+    color: black;
+  }
+
+  iframe{
+    height: 200px;
+    float: left;
+  }
+
+  .szoveg{
+    border: 1px solid black;
+    float:right;
+    width: 50%;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+@media screen and (max-width: 500px) {
+  .sor, .szoveg{
+    width: 100%;
+    padding: 0;
+  } 
+}
