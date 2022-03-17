@@ -27,22 +27,20 @@ h1{
   .video {
     float: left;
     width: 50%;
+    height: 400px
   }
   .video iframe{
     
       
       top: 0;
       left: 0;
-      width: 100%;
+      width: 80%;
       height: 100%;
       border: none;
 
   }
 
-iframe{
-  height: 200px;
-  float: left;
-}
+
 
 .szoveg{
   border: 1px solid black;
@@ -50,6 +48,7 @@ iframe{
   width: 50%;
   padding: 15px;
   margin-bottom: 5px;
+  height: auto;
 }
 @media screen and (max-width: 500px) {
   .video, .szoveg{
