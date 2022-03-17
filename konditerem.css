@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 h1{
   color: white;
   
@@ -21,15 +24,23 @@ h1{
   text-decoration: none;
 }
 
-.navbar a:hover {
-  background-color: rgb(170, 193, 172);
-  color: black;
-}
+  .video {
+    float: left;
+    width: 50%;
+    height: 400px
+  }
+  .video iframe{
+    
+      
+      top: 0;
+      left: 0;
+      width: 80%;
+      height: 100%;
+      border: none;
 
-iframe{
-  height: 200px;
-  float: left;
-}
+  }
+
+
 
 .szoveg{
   border: 1px solid black;
@@ -37,11 +48,12 @@ iframe{
   width: 50%;
   padding: 15px;
   margin-bottom: 5px;
+  height: auto;
 }
 @media screen and (max-width: 500px) {
-.sor, .szoveg{
-  width: 100%;
-  padding: 0;
+  .video, .szoveg{
+    width: 100%;
+    padding: 0;
 
 }}
 
