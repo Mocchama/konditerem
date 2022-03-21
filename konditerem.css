@@ -54,7 +54,14 @@ iframe{
 .vissza{
   float:right;
   text-decoration: none;
-  color: black;
+  color: white;
+  border: 2px solid rgb(103, 141, 106);
+  background-color: rgb(103, 141, 106);
+}
+.vissza:hover{
+  background-color: rgb(170, 193, 172);
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(170, 193, 172);
 }
 
 .fixed {
