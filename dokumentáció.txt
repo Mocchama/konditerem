@@ -1,0 +1,15 @@
+Konditermi projekt
+
+A projekt azért készült, 
+hogy a kezdőknek egyszerűbb, 
+illetve kényelmesebb legyen az eddzés.
+
+Elvárások:
+Az oldal probléma nélkül bármilyen eszközön átlátható és érthető legyen
+
+A formátum:
+html és css
+
+Felhasznált eszközök:
+visual studio code, qr code, github, powerpoint
+
