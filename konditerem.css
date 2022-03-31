@@ -8,7 +8,7 @@ h1{
 }
 .fejlec {
   background-color: rgb(39, 60, 86);
-  padding: 5px;
+  padding: 20px;
   text-align: center;
 }
 .navbar {
@@ -46,7 +46,6 @@ iframe{
 .sor, .szoveg{
   width: 100%;
   padding: 0;
-
 }}
 
 .sor:after {
@@ -65,7 +64,8 @@ iframe{
 .vissza:hover{
   background-color: rgb(170, 193, 172);
   color: rgb(0, 0, 0);
-  border: 2px solid rgb(170, 193, 172);
+  border: 5px solid rgb(170, 193, 172);
+  padding: 10px;
 }
 
 .fixed {
