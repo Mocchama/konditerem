@@ -43,11 +43,10 @@ iframe{
   margin-bottom: 5px;
 }
 @media screen and (max-width: 500px) {
-.sor, .szoveg{
+.sor, .szoveg {
   width: 100%;
   padding: 0;
-
-}}
+}
 
 .sor:after {
   content: "";
