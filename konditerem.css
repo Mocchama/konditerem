@@ -1,5 +1,6 @@
 body{
   background-color: rgb(255, 248, 241);
+  font-family: "Poppins", sans-serif;
 }
 
 h1{
@@ -14,6 +15,8 @@ h1{
 .navbar {
   overflow: hidden;
   background-color: rgb(103, 141, 106);
+  height: 50px;
+  font-size: 16.8px;
 }
 
 .navbar a {
@@ -31,16 +34,18 @@ h1{
 }
 
 iframe{
-  height: 200px;
+  height: 400px;
+  width: 1000px;
+  text-align: center;
   float: left;
 }
 
 .szoveg{
   border: 1px solid black;
-  float:left;
-  width: 50%;
+  text-align: center;
+  width: 100%;
   padding: 15px;
-  margin-bottom: 5px;
+  margin-bottom: 250px;
 }
 @media screen and (max-width: 500px) {
 .sor, .szoveg{
