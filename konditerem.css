@@ -48,7 +48,7 @@ iframe{
   margin-bottom: 250px;
 }
 @media screen and (max-width: 500px) {
-.sor, .szoveg{
+.sor, .szoveg {
   width: 100%;
   padding: 0;
 }}
