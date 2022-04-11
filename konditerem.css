@@ -80,3 +80,9 @@ iframe{
   right: 0;
   width: 300px;
 }
+
+.footer{
+  background-color: rgb(39, 60, 86);
+  padding: 20px;
+  text-align: center;
+}
